@@ -1,0 +1,11 @@
+switch(var)
+{
+ case 1:
+     System.out.println("good");
+ case 2:
+     System.out.println("better");
+ case 3:
+     System.out.println("best");
+ default :
+     System.out.println("good");
+}
